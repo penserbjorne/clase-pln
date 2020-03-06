@@ -1,6 +1,6 @@
-#Practica 1
+# Practica 1
 
-*Objetivo:* Obtener la curva de Zipf de los tipos de un corpus en escala logaritmica y determinar el parametro α correspondiente a esa distribucion.
+**Objetivo:** Obtener la curva de Zipf de los tipos de un corpus en escala logaritmica y determinar el parametro $\alpha$ correspondiente a esa distribucion.
 
 Pasos a seguir:
 
