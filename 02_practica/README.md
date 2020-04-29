@@ -18,9 +18,9 @@ y 300 para la segunda capa oculta (capa con tanh).
 (probabilidad Softmax).
 6. Evaluar el modelo (con Entropía).
 7. Calcular la probabilidad de las siguientes oraciones:
- - Nos bañamos con agua caliente
- - El animalito le olía la cabeza
- - Pascuala ordeñaba las vacas
+   - Nos bañamos con agua caliente
+   - El animalito le olía la cabeza
+   - Pascuala ordeñaba las vacas
 
 ## Evaluación
 
@@ -29,6 +29,6 @@ y 300 para la segunda capa oculta (capa con tanh).
 3. Pre-procesamiento y separación adecuada de los datos (entrenamiento 70% y
   evaluación 30%).
 4. Haber manejado los casos problemáticos:
- 1. palabras desconocidas
- 2. manejo de los stems y sus palabras.
+   1. palabras desconocidas
+   2. manejo de los stems y sus palabras.
 5. Calculo de la probabilidad de las oraciones del punto 7.
